@@ -1,0 +1,11 @@
+intext:({})
+intext:({})filetype:txt
+intext:({})filetype:csv
+intext:({})filetype:pdf
+intext:({})filetype:doc
+intext:({})filetype:log
+intitle:({})filetype:txt
+intitle:({})filetype:csv
+intitle:({})filetype:pdf
+intitle:({})filetype:doc
+intitle:({})filetype:log

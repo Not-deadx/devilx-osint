@@ -1,0 +1,14 @@
+site:{} filetype:txt
+site:{} filetype:pdf
+site:{} filetype:log
+site:{} filetype:doc
+site:{} filetype:docx
+site:{} filetype:sqlite
+site:{} filetype:yaml
+site:{} filetype:json
+site:{} filetype:md
+site:{} intext:admin OR Admin
+site:{} intext:emails OR Emails OR EMAILS
+site:{} intitle:admin OR Admin
+intext:({})
+inurl:({})

@@ -1,0 +1,11 @@
+# YAML EXPLANATION FILE #
+
+Name: Devilx
+Languages: Python,Shell-script,Javascript,Php,Css
+Python-Version: Python3 
+Author: Devilx
+Project-site: (your project URL)
+Download: git clone https://github.com/YOURUSERNAME/Devilx
+Platforms: Linux/MacOS/Termux
+Version: Nuke1.0.1(V3)
+License: GNU General Public License v3.0
