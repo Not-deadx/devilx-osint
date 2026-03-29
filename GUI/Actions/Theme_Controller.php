@@ -8,13 +8,13 @@ License: GNU General Public License v3.0-->
         $parser = json_decode($reader,true); 
         $color = $parser["Color"]["Background"];
         if ($color == "High-Contrast"){
-            echo "<img src = '../Icon/Devilx_Contrast.png'>";
+            echo "<img src = '../Icon/devilx.png'>";
         }
         else {
-            echo "<img src = '../Icon/Devilx.png'>";
+            echo "<img src = '../Icon/devilx.png'>";
         }
     }
     else {
-        echo "<img src = '../Icon/Devilx.png'>";
+        echo "<img src = '../Icon/devilx.png'>";
     }   
 ?>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="Icon/devilx.png">
+  <img width="200" height="200" alt="Devilx" src="https://raw.githubusercontent.com/Not-deadx/devilx-osint/main/Icon/devilx.png">
 </p>
 
 # :mag: Devilx 

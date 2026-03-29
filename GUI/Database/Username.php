@@ -30,7 +30,7 @@ License: GNU General Public License v3.0-->
             }
             echo "\n";
         ?>
-        <link rel = "icon" href = "../Icon/Devilx.png">
+        <link rel = "icon" href = "../Icon/devilx.png">
         <meta charset ="UTF-8">
         <script src = "../../Script/Language.js"></script>
         <script src = "../../Script/Themes.js"></script>

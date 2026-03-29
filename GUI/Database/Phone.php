@@ -29,7 +29,7 @@ License: GNU General Public License v3.0-->
                 echo '<link rel = "stylesheet" href = "../Css/Light/Style.css">';
             }
         ?>
-        <link rel = "icon" href = "../Icon/Devilx.png">
+        <link rel = "icon" href = "../Icon/devilx.png">
         <meta charset ="UTF-8">
         <script src = "../../Script/Language.js"></script>
         <script src = "../../Script/Author.js"></script>
