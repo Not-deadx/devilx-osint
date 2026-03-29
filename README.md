@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="Icon/Devilx.png">
+  <img width="200" height="200" src="Icon/devilx.png">
 </p>
 
 # :mag: Devilx 
