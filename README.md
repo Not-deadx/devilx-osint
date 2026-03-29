@@ -11,19 +11,20 @@
 <br>
 
 
+
 <br>
 
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
-    git clone https://github.com/YOURUSERNAME/Devilx
-    cd Devilx
+    git clone https://github.com/Not-deadx/devilx-osint.git
+    cd devilx-osint
     sudo chmod +x install.sh
     ./install.sh
 <br>
 
 # :heavy_check_mark: INSTALLATION TERMUX:
     pkg install proot
-    git clone https://github.com/YOURUSERNAME/Devilx
-    cd Devilx
+    git clone https://github.com/Not-deadx/devilx-osint.git
+    cd devilx-osint
     proot -0 chmod +x install_Termux.sh
     ./install_Termux.sh
 <br>
@@ -49,4 +50,23 @@
 ### DATABASE NOT AVAIABLE ON TERMUX
 <br>
 
+# :cyclone: VERSIONS LIST:
+    (Host your own versions page or use your GitHub releases tab)
+<br>
+
+# :heavy_check_mark: GUI DARK/LIGHT MODE:
+    cd GUI
+    cd Theme
+    edit Mode.json
+    write:Light=(Light-Mode)
+    write:Dark=(Dark-Mode) 
+    write:High-Contrast(High-Contrast-Mode)
+
+# MODE CODE EXAMPLE:
+    {
+        "Color": {
+            "Background": "Light"
+        }
+    }
+    
 
